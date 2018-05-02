@@ -1,0 +1,36 @@
+/* 
+    Created on : Apr 15, 2018, 5:31:35 PM
+    Author     : Ryan Sprague
+*/
+
+img {
+    width: 100px;
+}
+
+nav {
+    margin-bottom: 20px;
+}
+a {
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+p.loginMessage {
+    position: absolute;
+    left: 110px;
+    top: 60px;
+}
+
+div {
+    margin-left: 10px;
+    padding-left: 10px;
+    padding-bottom: 5px;
+}
+
+div.comments {
+    border: 1px solid;
+    border-radius: 8px;
+    width: 400px;
+    margin-bottom: 10px;
+}
+
